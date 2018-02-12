@@ -1,0 +1,70 @@
+*{
+	margin: 0px;
+	padding: 0px;
+
+}
+.title{
+	color: #333;
+	font-size: 100px;
+	text-align: center;
+}
+body{
+	height: 1000px;
+}
+.container{
+	width: 70%;
+	height: 70%;
+	background-color: #aaa;
+	margin: auto;
+	padding-top: 10%;
+	border-radius: 10px;
+}
+.icon-success{
+	width: 200px;
+	height: 200px;
+	background-color: #666;
+	border-radius: 100px;
+	margin: auto;
+	/*float: left;*/
+}
+.icon-success .inside{
+	width: 180px;
+	height: 180px;
+	background-color: #aaa;
+	border-radius: 90px;
+	position: relative;
+	left: 10px;
+	top: 10px;
+}
+.icon-success .inside .tick1{
+	width: 40px;
+	height: 10px;
+	background-color: #666;
+	position: relative;
+	top: 102px;
+	left: 52px;	
+	transform: rotate(50deg);
+	border-radius: 10px;
+}
+.icon-success .inside .tick2{
+	width: 100px;
+	height: 10px;
+	background-color: #666;
+	position: relative;
+	top: 65px;
+	left: 55px;	
+	border-radius: 10px;
+	transform: rotate(120deg);
+}
+p.title{
+	font-weight: bold;
+	font-size: 45px;
+}
+p{
+	color: #333;
+	font-size: 40px;
+	margin-right: 20%;
+	margin-left: 20%;
+	margin-top: 2%;
+	text-align: center;
+}

@@ -1,0 +1,51 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+
+
+.title{
+	color: #333;
+	font-size: 100px;
+	text-align: center;
+}
+body{
+	height: 1000px;
+}
+#map{
+	width: 70%;
+	height: 40%;
+	margin: auto;
+}
+.box1{
+	width: 27.5%;
+	height: 10%;
+	background-color: #ddd;
+	margin-top: 5%;
+	margin-left: 15%;                                                                                                                                                                                                                                                                                                                                   
+	float: left;
+	box-sizing: border-box;
+	border: 2px solid #666;
+	border-radius: 5px;
+}
+.box2{
+	width: 70%;
+	height: 10%;
+	background-color: #ddd;
+	margin-top: 5%;
+	margin-left: 15%;
+	float: left;
+	box-sizing: border-box;
+	border: 2px solid #666;
+	border-radius: 5px;
+}
+.box4{
+	width: 35%;
+	height: 10%;
+	background-color: #666;
+	margin-top: 5%;
+	margin-left: 15%;                                                                                                                                                                                                                                                                                                                                   
+	float: left;
+	border-radius: 5px;
+	margin-bottom: 20px;
+}
