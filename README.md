@@ -1,4 +1,4 @@
-# Frontent 1.6 for intern
+# Frontent 1.4 for intern
 Live demo:
 # https://colombo-trainee.github.io/KHANHLQ-Frontent-1.4/layout1.html
 # https://colombo-trainee.github.io/KHANHLQ-Frontent-1.4/layout2.html
